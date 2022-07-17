@@ -1,2 +1,2 @@
 adding new line in the file 2
-adding new line
+Adding new file in file 2
